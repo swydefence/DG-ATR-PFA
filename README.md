@@ -5,4 +5,4 @@ code for Domain generalization for SAR target recognition  based on pixel- and f
 
 
 
-Our code is developed based on \url{https://github.com/thuml/Transfer-Learning-Library}
+Our code is developed based on https://github.com/thuml/Transfer-Learning-Library
